@@ -1,0 +1,4 @@
+i: suricata: This is Suricata version 7.0.10 RELEASE running in SYSTEM mode
+i: runmodes: thread stack size of 131072 to too small: setting to 512k
+W: detect: rule 1000005: SYN-only to port(s) 20000:20019 w/o direction specified, disabling for toclient direction
+i: suricata: Configuration provided was successfully loaded. Exiting.

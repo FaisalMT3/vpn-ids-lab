@@ -1,0 +1,10 @@
+[Interface]
+PrivateKey = <ephemeral key generated at run time>
+Address = 10.255.0.2/30
+ListenPort = 51820
+MTU = 1420
+
+[Peer]
+PublicKey = t1TYJGefyehCpdstza5K9h0XGwLTJNblWgAea4sedXs=
+AllowedIPs = 10.10.0.0/24, 10.255.0.1/32
+Endpoint = 192.0.2.1:51820

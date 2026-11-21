@@ -1,0 +1,25 @@
+[101 - Suricata-Main] 2026-10-12 14:45:27 Notice: suricata: This is Suricata version 7.0.10 RELEASE running in SYSTEM mode
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: cpu: CPUs/cores online: 16
+[101 - Suricata-Main] 2026-10-12 14:45:27 Notice: runmodes: thread stack size of 131072 to too small: setting to 512k
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: suricata: Setting engine mode to IDS mode by default
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: exception-policy: master exception-policy set to: auto
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: ioctl: b-lan: MTU 1500
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: conf: Running in live mode, activating unix socket
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: logopenfile: fast output device (regular) initialized: fast.log
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: logopenfile: stats output device (regular) initialized: stats.log
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: detect: 1 rule files processed. 5 rules successfully loaded, 0 rules failed, 0
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: detect: 5 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 3 inspect application layer, 0 are decoder event only
+[101 - Suricata-Main] 2026-10-12 14:45:27 Warning: detect: rule 1000005: SYN-only to port(s) 20000:20019 w/o direction specified, disabling for toclient direction
+[102 - W#01-b-lan] 2026-10-12 14:45:27 Info: ioctl: b-lan: MTU 1500
+[102 - W#01-b-lan] 2026-10-12 14:45:27 Info: pcap: b-lan: snaplen set to 1524
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: unix-manager: unix socket '/var/run/suricata/suricata-command.socket'
+[101 - Suricata-Main] 2026-10-12 14:45:27 Info: unix-manager: created socket directory /var/run/suricata/
+[101 - Suricata-Main] 2026-10-12 14:45:27 Notice: threads: Threads created -> W: 1 FM: 1 FR: 1   Engine started.
+[101 - Suricata-Main] 2026-10-12 14:45:31 Notice: suricata: Signal Received.  Stopping engine.
+[101 - Suricata-Main] 2026-10-12 14:45:32 Info: suricata: time elapsed 4.996s
+[102 - W#01-b-lan] 2026-10-12 14:45:33 Info: pcap: b-lan: packets 223, bytes 20820
+[102 - W#01-b-lan] 2026-10-12 14:45:33 Info: pcap: b-lan: pcap total:223 recv:223 drop:0 (0.0%)
+[101 - Suricata-Main] 2026-10-12 14:45:33 Info: counters: Alerts: 36
+[101 - Suricata-Main] 2026-10-12 14:45:33 Notice: device: b-lan: packets: 223, drops: 0 (0.00%), invalid chksum: 0

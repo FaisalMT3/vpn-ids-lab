@@ -1,0 +1,6 @@
+i: suricata: This is Suricata version 7.0.10 RELEASE running in SYSTEM mode
+i: runmodes: thread stack size of 131072 to too small: setting to 512k
+W: detect: rule 1000005: SYN-only to port(s) 20000:20019 w/o direction specified, disabling for toclient direction
+i: threads: Threads created -> W: 1 FM: 1 FR: 1   Engine started.
+i: suricata: Signal Received.  Stopping engine.
+i: device: b-lan: packets: 223, drops: 0 (0.00%), invalid chksum: 0

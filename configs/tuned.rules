@@ -1,0 +1,5 @@
+alert icmp 10.10.0.0/24 any -> 10.20.0.0/24 any (msg:"LAB ICMP echo observed rate limited"; itype:8; threshold:type limit,track by_src,count 1,seconds 60; sid:1000001; rev:2;)
+alert http 10.10.0.0/24 any -> 10.20.0.0/24 8080 (msg:"LAB harmless attack marker"; flow:established,to_server; http.uri; content:"/lab-attack"; startswith; sid:1000002; rev:1;)
+alert http 10.10.0.0/24 any -> 10.20.0.0/24 8080 (msg:"LAB repeated login endpoint requests"; flow:established,to_server; http.uri; content:"/login"; startswith; detection_filter:track by_src,count 3,seconds 60; sid:1000003; rev:2;)
+alert http 10.10.0.0/24 any -> 10.20.0.0/24 8080 (msg:"LAB admin endpoint policy"; flow:established,to_server; http.uri; content:"/admin"; startswith; sid:1000004; rev:2;)
+alert tcp 10.10.0.0/24 any -> 10.20.0.0/24 20000:20019 (msg:"LAB SYN burst to test port range"; flags:S; flow:stateless; threshold:type both,track by_src,count 10,seconds 60; sid:1000005; rev:1;)

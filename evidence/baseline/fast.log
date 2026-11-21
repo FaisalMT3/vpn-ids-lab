@@ -1,0 +1,36 @@
+10/12/2026-14:45:27.327430  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.427118  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.527173  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.627255  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.727388  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.827378  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:27.927449  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.027523  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.127589  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.227669  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.327716  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.427796  [**] [1:1000001:1] LAB ICMP echo observed [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:28.494662  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47506 -> 10.20.0.10:8080
+10/12/2026-14:45:28.536475  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47522 -> 10.20.0.10:8080
+10/12/2026-14:45:28.577985  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47536 -> 10.20.0.10:8080
+10/12/2026-14:45:28.619266  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47552 -> 10.20.0.10:8080
+10/12/2026-14:45:28.660640  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47568 -> 10.20.0.10:8080
+10/12/2026-14:45:28.702118  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47574 -> 10.20.0.10:8080
+10/12/2026-14:45:28.743603  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47586 -> 10.20.0.10:8080
+10/12/2026-14:45:28.785209  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47596 -> 10.20.0.10:8080
+10/12/2026-14:45:28.826591  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47600 -> 10.20.0.10:8080
+10/12/2026-14:45:28.868154  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47614 -> 10.20.0.10:8080
+10/12/2026-14:45:28.910113  [**] [1:1000003:1] LAB login endpoint request [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47616 -> 10.20.0.10:8080
+10/12/2026-14:45:28.910113  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47616 -> 10.20.0.10:8080
+10/12/2026-14:45:28.951813  [**] [1:1000003:1] LAB login endpoint request [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47624 -> 10.20.0.10:8080
+10/12/2026-14:45:28.951813  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47624 -> 10.20.0.10:8080
+10/12/2026-14:45:28.993277  [**] [1:1000003:1] LAB login endpoint request [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47636 -> 10.20.0.10:8080
+10/12/2026-14:45:28.993277  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47636 -> 10.20.0.10:8080
+10/12/2026-14:45:29.035229  [**] [1:1000003:1] LAB login endpoint request [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47638 -> 10.20.0.10:8080
+10/12/2026-14:45:29.035229  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47638 -> 10.20.0.10:8080
+10/12/2026-14:45:29.078133  [**] [1:1000003:1] LAB login endpoint request [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47650 -> 10.20.0.10:8080
+10/12/2026-14:45:29.078133  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47650 -> 10.20.0.10:8080
+10/12/2026-14:45:29.120703  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47652 -> 10.20.0.10:8080
+10/12/2026-14:45:29.164639  [**] [1:1000002:1] LAB harmless attack marker [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47656 -> 10.20.0.10:8080
+10/12/2026-14:45:29.164639  [**] [1:1000004:1] LAB broad HTTP GET policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:47656 -> 10.20.0.10:8080
+10/12/2026-14:45:29.206387  [**] [1:1000005:1] LAB SYN burst to test port range [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:53618 -> 10.20.0.10:20009

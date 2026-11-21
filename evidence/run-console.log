@@ -1,0 +1,37 @@
+{
+  "executed_at_utc": "2026-10-12T14:45:45.982924+00:00",
+  "alerts": {
+    "baseline": {
+      "1000001": 12,
+      "1000002": 1,
+      "1000003": 5,
+      "1000004": 17,
+      "1000005": 1
+    },
+    "tuned": {
+      "1000001": 1,
+      "1000002": 1,
+      "1000003": 2,
+      "1000004": 1,
+      "1000005": 1
+    },
+    "replay-tuned": {
+      "1000001": 1,
+      "1000002": 1,
+      "1000003": 2,
+      "1000004": 1,
+      "1000005": 1
+    },
+    "ips": {
+      "1000002": 1
+    }
+  },
+  "checks": {
+    "bidirectional_vpn": true,
+    "no_vpn_bypass": true,
+    "wan_payload_hidden": true,
+    "inner_payload_visible": true,
+    "ips_blocked_marker": true,
+    "ips_benign_before_after": true
+  }
+}

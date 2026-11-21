@@ -1,0 +1,19 @@
+[155 - Suricata-Main] 2026-10-12 14:45:38 Notice: suricata: This is Suricata version 7.0.10 RELEASE running in USER mode
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: cpu: CPUs/cores online: 16
+[155 - Suricata-Main] 2026-10-12 14:45:38 Notice: runmodes: thread stack size of 131072 to too small: setting to 512k
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: suricata: Setting engine mode to IDS mode by default
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: exception-policy: master exception-policy set to: auto
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: logopenfile: fast output device (regular) initialized: fast.log
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: logopenfile: stats output device (regular) initialized: stats.log
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: detect: 1 rule files processed. 5 rules successfully loaded, 0 rules failed, 0
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: detect: 5 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 3 inspect application layer, 0 are decoder event only
+[155 - Suricata-Main] 2026-10-12 14:45:38 Warning: detect: rule 1000005: SYN-only to port(s) 20000:20019 w/o direction specified, disabling for toclient direction
+[156 - W#01] 2026-10-12 14:45:38 Info: pcap: Starting file run for /lab/evidence/baseline/inner.pcap
+[155 - Suricata-Main] 2026-10-12 14:45:38 Notice: threads: Threads created -> W: 1 FM: 1 FR: 1   Engine started.
+[156 - W#01] 2026-10-12 14:45:38 Info: pcap: pcap file /lab/evidence/baseline/inner.pcap end of file reached (pcap err code 0)
+[155 - Suricata-Main] 2026-10-12 14:45:38 Notice: suricata: Signal Received.  Stopping engine.
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: suricata: time elapsed 0.022s
+[156 - W#01] 2026-10-12 14:45:38 Notice: pcap: read 1 file, 223 packets, 20820 bytes
+[155 - Suricata-Main] 2026-10-12 14:45:38 Info: counters: Alerts: 6

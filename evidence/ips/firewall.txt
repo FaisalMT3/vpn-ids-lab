@@ -1,0 +1,6 @@
+Chain FORWARD (policy DROP 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+   11   954 NFQUEUE    all  --  b-lan  wg0     0.0.0.0/0            0.0.0.0/0            NFQUEUE num 0
+   18  1664 NFQUEUE    all  --  wg0    b-lan   0.0.0.0/0            0.0.0.0/0            NFQUEUE num 0
+  216 18070 ACCEPT     all  --  b-lan  wg0     10.20.0.0/24         10.10.0.0/24        
+  242 18358 ACCEPT     all  --  wg0    b-lan   10.10.0.0/24         10.20.0.0/24        

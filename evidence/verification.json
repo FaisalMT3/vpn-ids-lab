@@ -1,0 +1,28 @@
+{
+  "baseline": {
+    "alerts": 36,
+    "kernel_drops": 0,
+    "invalid_checksums": 0,
+    "rules_loaded": 5
+  },
+  "tuned": {
+    "alerts": 6,
+    "kernel_drops": 0,
+    "invalid_checksums": 0,
+    "rules_loaded": 5
+  },
+  "replay-tuned": {
+    "alerts": 6,
+    "kernel_drops": null,
+    "invalid_checksums": 0,
+    "rules_loaded": 5
+  },
+  "ips": {
+    "alerts": 1,
+    "kernel_drops": null,
+    "invalid_checksums": 0,
+    "rules_loaded": 5
+  },
+  "same_capture_replay_matches_live_tuned": true,
+  "blocked_marker_absent_at_server": true
+}

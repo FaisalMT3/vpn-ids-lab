@@ -1,0 +1,2037 @@
+reading from file /lab/evidence/tuned/inner.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+14:45:33.555976 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 0, length 64
+E..T.C@.>.!5
+
+.
+
+..
+..~.....e.......................................................
+14:45:33.555991 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 0, length 64
+E..T....@..s
+..
+
+
+.
+........e.......................................................
+14:45:33.597545 IP6 fe80::88ca:c0ff:fe5f:a1fb > ff02::2: ICMP6, router solicitation, length 16
+`.....:.............._..............................._..
+14:45:33.656037 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 1, length 64
+E..T.^@.>.!.
+
+.
+
+..
+...4....K^......................................................
+14:45:33.656052 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 1, length 64
+E..T....@..a
+..
+
+
+.
+...4....K^......................................................
+14:45:33.756136 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 2, length 64
+E..T..@.>. .
+
+.
+
+..
+........4.......................................................
+14:45:33.756158 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 2, length 64
+E..T.>..@..9
+..
+
+
+.
+........4.......................................................
+14:45:33.856235 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 3, length 64
+E..T..@.>. .
+
+.
+
+..
+...$...."l......................................................
+14:45:33.856251 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 3, length 64
+E..T.h..@...
+..
+
+
+.
+...$...."l......................................................
+14:45:33.956242 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 4, length 64
+E..T..@.>. .
+
+.
+
+..
+................................................................
+14:45:33.956257 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 4, length 64
+E..T.~..@...
+..
+
+
+.
+................................................................
+14:45:34.056305 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 5, length 64
+E..T.)@.>. O
+
+.
+
+..
+.........y......................................................
+14:45:34.056320 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 5, length 64
+E..T....@...
+..
+
+
+.
+.........y......................................................
+14:45:34.110530 IP6 fe80::dc51:caff:fe4e:7624 > ff02::2: ICMP6, router solicitation, length 16
+`.....:..........Q...Nv$..................A........Q.Nv$
+14:45:34.156373 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 6, length 64
+E..T.=@.>. ;
+
+.
+
+..
+................................................................
+14:45:34.156388 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 6, length 64
+E..T....@...
+..
+
+
+.
+..&.............................................................
+14:45:34.256487 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 7, length 64
+E..T.?@.>. 9
+
+.
+
+..
+..5.............................................................
+14:45:34.256509 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 7, length 64
+E..T....@...
+..
+
+
+.
+..=.............................................................
+14:45:34.356573 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 8, length 64
+E..T..@.>...
+
+.
+
+..
+..2}............................................................
+14:45:34.356590 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 8, length 64
+E..T.J..@..-
+..
+
+
+.
+..:}............................................................
+14:45:34.456755 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 9, length 64
+E..T..@.>...
+
+.
+
+..
+..@....	.. .....................................................
+14:45:34.456773 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 9, length 64
+E..T.d..@...
+..
+
+
+.
+..H....	.. .....................................................
+14:45:34.556676 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 10, length 64
+E..T	.@.>..u
+
+.
+
+..
+..]m...
+w.".....................................................
+14:45:34.556692 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 10, length 64
+E..T.i..@...
+..
+
+
+.
+..em...
+w.".....................................................
+14:45:34.656744 IP 10.10.0.10 > 10.20.0.10: ICMP echo request, id 136, seq 11, length 64
+E..T	.@.>..h
+
+.
+
+..
+..}.....U.#.....................................................
+14:45:34.656761 IP 10.20.0.10 > 10.10.0.10: ICMP echo reply, id 136, seq 11, length 64
+E..T....@...
+..
+
+
+.
+........U.#.....................................................
+14:45:34.726227 IP 10.10.0.10.37648 > 10.20.0.10.8080: Flags [S], seq 4109594258, win 64240, options [mss 1460,sackOK,TS val 3661142949 ecr 0,nop,wscale 10], length 0
+E..<5.@.>...
+
+.
+
+..
+......n....................
+.8.........
+
+14:45:34.726254 IP 10.20.0.10.8080 > 10.10.0.10.37648: Flags [S.], seq 3577420990, ack 4109594259, win 65160, options [mss 1460,sackOK,TS val 2232676271 ecr 3661142949,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.....;....n.....Bo.........
+.....8.....
+
+14:45:34.726432 IP 10.10.0.10.37648 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 3661142949 ecr 2232676271], length 0
+E..45.@.>...
+
+.
+
+..
+......n..;.....?o......
+.8......
+14:45:34.726436 IP 10.10.0.10.37648 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 3661142949 ecr 2232676271], length 125: HTTP: GET /health HTTP/1.1
+E...5.@.>..u
+
+.
+
+..
+......n..;.....?.a.....
+.8......GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.726466 IP 10.20.0.10.8080 > 10.10.0.10.37648: Flags [.], ack 126, win 64, options [nop,nop,TS val 2232676271 ecr 3661142949], length 0
+E..4..@.@.P.
+..
+
+
+.
+.....;....o....@o
+.....
+.....8..
+14:45:34.726986 IP 10.20.0.10.8080 > 10.10.0.10.37648: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 2232676272 ecr 3661142949], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@.P.
+..
+
+
+.
+.....;....o....@.......
+.....8..HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.727016 IP 10.20.0.10.8080 > 10.10.0.10.37648: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 2232676272 ecr 3661142949], length 40: HTTP
+E..\..@.@.P.
+..
+
+
+.
+.....;.J..o....@.F.....
+.....8..Isolated VPN/IDS lab: request received.
+
+14:45:34.727099 IP 10.10.0.10.37648 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 3661142950 ecr 2232676272], length 0
+E..45.@.>...
+
+.
+
+..
+......o..;.J...?n~.....
+.8......
+14:45:34.727258 IP 10.10.0.10.37648 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 3661142950 ecr 2232676272], length 0
+E..45.@.>...
+
+.
+
+..
+......o..;.s...?nQ.....
+.8......
+14:45:34.767763 IP 10.10.0.10.37662 > 10.20.0.10.8080: Flags [S], seq 258072873, win 64240, options [mss 1460,sackOK,TS val 775256414 ecr 0,nop,wscale 10], length 0
+E..<.f@.>..%
+
+.
+
+..
+.....a.)...................
+.5y^.......
+
+14:45:34.767792 IP 10.20.0.10.8080 > 10.10.0.10.37662: Flags [S.], seq 2191298356, ack 258072874, win 65160, options [mss 1460,sackOK,TS val 1196466530 ecr 775256414,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.......4.a.*...............
+GP.b.5y^...
+
+14:45:34.769130 IP 10.10.0.10.37662 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 775256414 ecr 1196466530], length 0
+E..4.g@.>..,
+
+.
+
+..
+.....a.*...5...?.......
+.5y^GP.b
+14:45:34.769131 IP 10.10.0.10.37662 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 775256414 ecr 1196466530], length 125: HTTP: GET /health HTTP/1.1
+E....h@.>...
+
+.
+
+..
+.....a.*...5...?A......
+.5y^GP.bGET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.769150 IP 10.20.0.10.8080 > 10.10.0.10.37662: Flags [.], ack 126, win 64, options [nop,nop,TS val 1196466531 ecr 775256414], length 0
+E..4..@.@.'.
+..
+
+
+.
+.......5.a.....@.{.....
+GP.c.5y^
+14:45:34.769907 IP 10.20.0.10.8080 > 10.10.0.10.37662: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 1196466532 ecr 775256414], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@.'R
+..
+
+
+.
+.......5.a.....@.......
+GP.d.5y^HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.769945 IP 10.20.0.10.8080 > 10.10.0.10.37662: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 1196466532 ecr 775256414], length 40: HTTP
+E..\..@.@.'.
+..
+
+
+.
+.........a.....@k......
+GP.d.5y^Isolated VPN/IDS lab: request received.
+
+14:45:34.770029 IP 10.10.0.10.37662 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 775256416 ecr 1196466532], length 0
+E..4.i@.>..*
+
+.
+
+..
+.....a.........?.......
+.5y`GP.d
+14:45:34.770348 IP 10.10.0.10.37662 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 775256416 ecr 1196466532], length 0
+E..4.j@.>..)
+
+.
+
+..
+.....a.........?.......
+.5y`GP.d
+14:45:34.810722 IP 10.10.0.10.37664 > 10.20.0.10.8080: Flags [S], seq 285540399, win 64240, options [mss 1460,sackOK,TS val 1670349089 ecr 0,nop,wscale 10], length 0
+E..<[.@.>...
+
+.
+
+..
+. ...../.........E.........
+c..!.......
+
+14:45:34.810741 IP 10.20.0.10.8080 > 10.10.0.10.37664: Flags [S.], seq 1207807099, ack 285540400, win 65160, options [mss 1460,sackOK,TS val 3548759288 ecr 1670349089,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+... G..{...0...............
+....c..!...
+
+14:45:34.810860 IP 10.10.0.10.37664 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 1670349089 ecr 3548759288], length 0
+E..4[.@.>...
+
+.
+
+..
+. .....0G..|...?,......
+c..!....
+14:45:34.810889 IP 10.10.0.10.37664 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 1670349089 ecr 3548759288], length 125: HTTP: GET /health HTTP/1.1
+E...[.@.>..0
+
+.
+
+..
+. .....0G..|...?Q......
+c..!....GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.810895 IP 10.20.0.10.8080 > 10.10.0.10.37664: Flags [.], ack 126, win 64, options [nop,nop,TS val 3548759288 ecr 1670349089], length 0
+E..4..@.@.^z
+..
+
+
+.
+... G..|.......@,@.....
+....c..!
+14:45:34.811445 IP 10.20.0.10.8080 > 10.10.0.10.37664: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 3548759288 ecr 1670349089], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@.].
+..
+
+
+.
+... G..|.......@.......
+....c..!HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.811481 IP 10.20.0.10.8080 > 10.10.0.10.37664: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 3548759288 ecr 1670349089], length 40: HTTP
+E..\..@.@.^P
+..
+
+
+.
+... G..........@{}.....
+....c..!Isolated VPN/IDS lab: request received.
+
+14:45:34.811558 IP 10.10.0.10.37664 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 1670349089 ecr 3548759288], length 0
+E..4[.@.>...
+
+.
+
+..
+. ......G......?+......
+c..!....
+14:45:34.811744 IP 10.10.0.10.37664 > 10.20.0.10.8080: Flags [F.], seq 126, ack 181, win 63, options [nop,nop,TS val 1670349090 ecr 3548759288], length 0
+E..4[.@.>...
+
+.
+
+..
+. ......G..0...?+......
+c.."....
+14:45:34.811758 IP 10.20.0.10.8080 > 10.10.0.10.37664: Flags [.], ack 127, win 64, options [nop,nop,TS val 3548759289 ecr 1670349090], length 0
+E..4..@.@.^w
+..
+
+
+.
+... G..0.......@+......
+....c.."
+14:45:34.852142 IP 10.10.0.10.37676 > 10.20.0.10.8080: Flags [S], seq 4122183907, win 64240, options [mss 1460,sackOK,TS val 200046434 ecr 0,nop,wscale 10], length 0
+E..<..@.>...
+
+.
+
+..
+.,...............8.........
+..wb.......
+
+14:45:34.852173 IP 10.20.0.10.8080 > 10.10.0.10.37676: Flags [S.], seq 2403951209, ack 4122183908, win 65160, options [mss 1460,sackOK,TS val 1771923684 ecr 200046434,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...,.Ibi.........Z.........
+i.h...wb...
+
+14:45:34.852356 IP 10.10.0.10.37676 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 200046434 ecr 1771923684], length 0
+E..4..@.>...
+
+.
+
+..
+.,.......Ibj...?.s.....
+..wbi.h.
+14:45:34.852358 IP 10.10.0.10.37676 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 200046434 ecr 1771923684], length 125: HTTP: GET /health HTTP/1.1
+E.....@.>..r
+
+.
+
+..
+.,.......Ibj...?.M.....
+..wbi.h.GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.852375 IP 10.20.0.10.8080 > 10.10.0.10.37676: Flags [.], ack 126, win 64, options [nop,nop,TS val 1771923684 ecr 200046434], length 0
+E..4..@.@.(.
+..
+
+
+.
+...,.Ibj...a...@.......
+i.h...wb
+14:45:34.852937 IP 10.20.0.10.8080 > 10.10.0.10.37676: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 1771923685 ecr 200046434], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@.(O
+..
+
+
+.
+...,.Ibj...a...@el.....
+i.h...wbHTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.852971 IP 10.20.0.10.8080 > 10.10.0.10.37676: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 1771923685 ecr 200046434], length 40: HTTP
+E..\..@.@.(.
+..
+
+
+.
+...,.Ib....a...@82.....
+i.h...wbIsolated VPN/IDS lab: request received.
+
+14:45:34.853035 IP 10.10.0.10.37676 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 200046435 ecr 1771923685], length 0
+E..4..@.>...
+
+.
+
+..
+.,.....a.Ib....?.i.....
+..wci.h.
+14:45:34.853351 IP 10.10.0.10.37676 > 10.20.0.10.8080: Flags [F.], seq 126, ack 181, win 63, options [nop,nop,TS val 200046435 ecr 1771923685], length 0
+E..4..@.>...
+
+.
+
+..
+.,.....a.Ic....?.?.....
+..wci.h.
+14:45:34.853366 IP 10.20.0.10.8080 > 10.10.0.10.37676: Flags [.], ack 127, win 64, options [nop,nop,TS val 1771923685 ecr 200046435], length 0
+E..4..@.@.(.
+..
+
+
+.
+...,.Ic....b...@.>.....
+i.h...wc
+14:45:34.893763 IP 10.10.0.10.37690 > 10.20.0.10.8080: Flags [S], seq 476455839, win 64240, options [mss 1460,sackOK,TS val 1794036462 ecr 0,nop,wscale 10], length 0
+E..<+.@.>...
+
+.
+
+..
+.:...f#....................
+j..........
+
+14:45:34.893779 IP 10.20.0.10.8080 > 10.10.0.10.37690: Flags [S.], seq 3821648359, ack 476455840, win 65160, options [mss 1460,sackOK,TS val 1043493127 ecr 1794036462,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...:.....f#................
+>2q.j......
+
+14:45:34.893875 IP 10.10.0.10.37690 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 1794036462 ecr 1043493127], length 0
+E..4+.@.>...
+
+.
+
+..
+.:...f#........?.......
+j...>2q.
+14:45:34.893902 IP 10.10.0.10.37690 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 1794036462 ecr 1043493127], length 125: HTTP: GET /health HTTP/1.1
+E...+.@.>..V
+
+.
+
+..
+.:...f#........?	......
+j...>2q.GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.893910 IP 10.20.0.10.8080 > 10.10.0.10.37690: Flags [.], ack 126, win 64, options [nop,nop,TS val 1043493127 ecr 1794036462], length 0
+E..4/.@.@..s
+..
+
+
+.
+...:.....f$....@.4.....
+>2q.j...
+14:45:34.894391 IP 10.20.0.10.8080 > 10.10.0.10.37690: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 1043493127 ecr 1794036462], length 139: HTTP: HTTP/1.0 200 OK
+E.../ @.@...
+..
+
+
+.
+...:.....f$....@`......
+>2q.j...HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.894427 IP 10.20.0.10.8080 > 10.10.0.10.37690: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 1043493127 ecr 1794036462], length 40: HTTP
+E..\/!@.@..I
+..
+
+
+.
+...:...s.f$....@3r.....
+>2q.j...Isolated VPN/IDS lab: request received.
+
+14:45:34.894582 IP 10.10.0.10.37690 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 1794036463 ecr 1043493127], length 0
+E..4+.@.>...
+
+.
+
+..
+.:...f$....s...?.......
+j...>2q.
+14:45:34.894979 IP 10.10.0.10.37690 > 10.20.0.10.8080: Flags [F.], seq 126, ack 181, win 63, options [nop,nop,TS val 1794036463 ecr 1043493127], length 0
+E..4+.@.>...
+
+.
+
+..
+.:...f$........?.......
+j...>2q.
+14:45:34.894989 IP 10.20.0.10.8080 > 10.10.0.10.37690: Flags [.], ack 127, win 64, options [nop,nop,TS val 1043493128 ecr 1794036463], length 0
+E..4/"@.@..p
+..
+
+
+.
+...:.....f$....@.}.....
+>2q.j...
+14:45:34.935245 IP 10.10.0.10.37696 > 10.20.0.10.8080: Flags [S], seq 3279777116, win 64240, options [mss 1460,sackOK,TS val 1101936689 ecr 0,nop,wscale 10], length 0
+E..<..@.>...
+
+.
+
+..
+.@...}m\.........P.........
+A.81.......
+
+14:45:34.935271 IP 10.20.0.10.8080 > 10.10.0.10.37696: Flags [S.], seq 2197215645, ack 3279777117, win 65160, options [mss 1460,sackOK,TS val 1174685159 ecr 1101936689,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...@.....}m].....'.........
+F.E.A.81...
+
+14:45:34.935915 IP 10.10.0.10.37696 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 1101936690 ecr 1174685159], length 0
+E..4..@.>...
+
+.
+
+..
+.@...}m].......?.@.....
+A.82F.E.
+14:45:34.936068 IP 10.10.0.10.37696 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 1101936690 ecr 1174685159], length 125: HTTP: GET /health HTTP/1.1
+E.....@.>..'
+
+.
+
+..
+.@...}m].......?A......
+A.82F.E.GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.936079 IP 10.20.0.10.8080 > 10.10.0.10.37696: Flags [.], ack 126, win 64, options [nop,nop,TS val 1174685160 ecr 1101936690], length 0
+E..4kb@.@..0
+..
+
+
+.
+...@.....}m....@.......
+F.E.A.82
+14:45:34.936651 IP 10.20.0.10.8080 > 10.10.0.10.37696: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 1174685161 ecr 1101936690], length 139: HTTP: HTTP/1.0 200 OK
+E...kc@.@...
+..
+
+
+.
+...@.....}m....@.7.....
+F.E.A.82HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.936720 IP 10.20.0.10.8080 > 10.10.0.10.37696: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 1174685161 ecr 1101936690], length 40: HTTP
+E..\kd@.@...
+..
+
+
+.
+...@...).}m....@j......
+F.E.A.82Isolated VPN/IDS lab: request received.
+
+14:45:34.936832 IP 10.10.0.10.37696 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 1101936691 ecr 1174685161], length 0
+E..4..@.>...
+
+.
+
+..
+.@...}m....)...?.5.....
+A.83F.E.
+14:45:34.936995 IP 10.10.0.10.37696 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 1101936691 ecr 1174685161], length 0
+E..4..@.>...
+
+.
+
+..
+.@...}m....R...?.......
+A.83F.E.
+14:45:34.977393 IP 10.10.0.10.37702 > 10.20.0.10.8080: Flags [S], seq 631678353, win 64240, options [mss 1460,sackOK,TS val 2871644151 ecr 0,nop,wscale 10], length 0
+E..<.f@.>.0$
+
+.
+
+..
+.F..%...........?..........
+.).........
+
+14:45:34.977417 IP 10.20.0.10.8080 > 10.10.0.10.37702: Flags [S.], seq 2172013147, ack 631678354, win 65160, options [mss 1460,sackOK,TS val 359672222 ecr 2871644151,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...F.vJ[%.......1".........
+.p)..).....
+
+14:45:34.977539 IP 10.10.0.10.37702 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 2871644151 ecr 359672222], length 0
+E..4.g@.>.0+
+
+.
+
+..
+.F..%....vJ\...?^;.....
+.)...p).
+14:45:34.977558 IP 10.10.0.10.37702 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 2871644151 ecr 359672222], length 125: HTTP: GET /health HTTP/1.1
+E....h@.>./.
+
+.
+
+..
+.F..%....vJ\...?.......
+.)...p).GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:34.977566 IP 10.20.0.10.8080 > 10.10.0.10.37702: Flags [.], ack 126, win 64, options [nop,nop,TS val 359672223 ecr 2871644151], length 0
+E..4..@.@.q.
+..
+
+
+.
+...F.vJ\%......@]......
+.p)..)..
+14:45:34.978158 IP 10.20.0.10.8080 > 10.10.0.10.37702: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 359672223 ecr 2871644151], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@.q.
+..
+
+
+.
+...F.vJ\%......@.3.....
+.p)..)..HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:34 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:34.978193 IP 10.20.0.10.8080 > 10.10.0.10.37702: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 359672223 ecr 2871644151], length 40: HTTP
+E..\..@.@.q.
+..
+
+
+.
+...F.vJ.%......@.......
+.p)..)..Isolated VPN/IDS lab: request received.
+
+14:45:34.978493 IP 10.10.0.10.37702 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 2871644152 ecr 359672223], length 0
+E..4.i@.>.0)
+
+.
+
+..
+.F..%....vJ....?]1.....
+.)...p).
+14:45:34.978498 IP 10.10.0.10.37702 > 10.20.0.10.8080: Flags [F.], seq 126, ack 181, win 63, options [nop,nop,TS val 2871644152 ecr 359672223], length 0
+E..4.j@.>.0(
+
+.
+
+..
+.F..%....vK....?]......
+.)...p).
+14:45:34.978531 IP 10.20.0.10.8080 > 10.10.0.10.37702: Flags [.], ack 127, win 64, options [nop,nop,TS val 359672223 ecr 2871644152], length 0
+E..4..@.@.q.
+..
+
+
+.
+...F.vK.%......@]......
+.p)..)..
+14:45:35.018943 IP 10.10.0.10.37710 > 10.20.0.10.8080: Flags [S], seq 4081901375, win 64240, options [mss 1460,sackOK,TS val 459588340 ecr 0,nop,wscale 10], length 0
+E..<.;@.>.?O
+
+.
+
+..
+.N...L.?...................
+.d.........
+
+14:45:35.018958 IP 10.20.0.10.8080 > 10.10.0.10.37710: Flags [S.], seq 2059634040, ack 4081901376, win 65160, options [mss 1460,sackOK,TS val 3835829535 ecr 459588340,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...Nz..x.L.@.....o.........
+.....d.....
+
+14:45:35.019063 IP 10.10.0.10.37710 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 459588340 ecr 3835829535], length 0
+E..4.<@.>.?V
+
+.
+
+..
+.N...L.@z..y...?.......
+.d......
+14:45:35.019091 IP 10.10.0.10.37710 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 459588340 ecr 3835829535], length 125: HTTP: GET /health HTTP/1.1
+E....=@.>.>.
+
+.
+
+..
+.N...L.@z..y...?!b.....
+.d......GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.019097 IP 10.20.0.10.8080 > 10.10.0.10.37710: Flags [.], ack 126, win 64, options [nop,nop,TS val 3835829535 ecr 459588340], length 0
+E..4.%@.@.}m
+..
+
+
+.
+...Nz..y.L.....@.
+.....
+.....d..
+14:45:35.019724 IP 10.20.0.10.8080 > 10.10.0.10.37710: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 3835829536 ecr 459588340], length 139: HTTP: HTTP/1.0 200 OK
+E....&@.@.|.
+..
+
+
+.
+...Nz..y.L.....@w......
+... .d..HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.019765 IP 10.20.0.10.8080 > 10.10.0.10.37710: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 3835829536 ecr 459588340], length 40: HTTP
+E..\.'@.@.}C
+..
+
+
+.
+...Nz....L.....@KG.....
+... .d..Isolated VPN/IDS lab: request received.
+
+14:45:35.019878 IP 10.10.0.10.37710 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 459588341 ecr 3835829536], length 0
+E..4.>@.>.?T
+
+.
+
+..
+.N...L..z......?.~.....
+.d..... 
+14:45:35.020015 IP 10.10.0.10.37710 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 459588341 ecr 3835829536], length 0
+E..4.?@.>.?S
+
+.
+
+..
+.N...L..z..-...?.Q.....
+.d..... 
+14:45:35.060314 IP 10.10.0.10.37724 > 10.20.0.10.8080: Flags [S], seq 3816187555, win 64240, options [mss 1460,sackOK,TS val 2296715581 ecr 0,nop,wscale 10], length 0
+E..<..@.>.%.
+
+.
+
+..
+.\...vf....................
+...=.......
+
+14:45:35.060339 IP 10.20.0.10.8080 > 10.10.0.10.37724: Flags [S.], seq 1536000172, ack 3816187556, win 65160, options [mss 1460,sackOK,TS val 1603879461 ecr 2296715581,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...\[....vf................
+_.B%...=...
+
+14:45:35.060431 IP 10.10.0.10.37724 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 2296715581 ecr 1603879461], length 0
+E..4..@.>.%.
+
+.
+
+..
+.\...vf.[......?E).....
+...=_.B%
+14:45:35.060450 IP 10.10.0.10.37724 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 2296715581 ecr 1603879461], length 125: HTTP: GET /health HTTP/1.1
+E.....@.>.%!
+
+.
+
+..
+.\...vf.[......?j......
+...=_.B%GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.060458 IP 10.20.0.10.8080 > 10.10.0.10.37724: Flags [.], ack 126, win 64, options [nop,nop,TS val 1603879461 ecr 2296715581], length 0
+E..4.J@.@.fH
+..
+
+
+.
+...\[....vg!...@D......
+_.B%...=
+14:45:35.060962 IP 10.20.0.10.8080 > 10.10.0.10.37724: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 1603879462 ecr 2296715581], length 139: HTTP: HTTP/1.0 200 OK
+E....K@.@.e.
+..
+
+
+.
+...\[....vg!...@.!.....
+_.B&...=HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.060989 IP 10.20.0.10.8080 > 10.10.0.10.37724: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 1603879462 ecr 2296715581], length 40: HTTP
+E..\.L@.@.f.
+..
+
+
+.
+...\[..8.vg!...@.......
+_.B&...=Isolated VPN/IDS lab: request received.
+
+14:45:35.061059 IP 10.10.0.10.37724 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 2296715582 ecr 1603879462], length 0
+E..4..@.>.%.
+
+.
+
+..
+.\...vg![..8...?D......
+...>_.B&
+14:45:35.061271 IP 10.10.0.10.37724 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 2296715582 ecr 1603879462], length 0
+E..4..@.>.%.
+
+.
+
+..
+.\...vg![..a...?C......
+...>_.B&
+14:45:35.101766 IP 10.10.0.10.37728 > 10.20.0.10.8080: Flags [S], seq 4228619746, win 64240, options [mss 1460,sackOK,TS val 3387725305 ecr 0,nop,wscale 10], length 0
+E..<..@.>...
+
+.
+
+..
+.`.........................
+...........
+
+14:45:35.101789 IP 10.20.0.10.8080 > 10.10.0.10.37728: Flags [S.], seq 462504571, ack 4228619747, win 65160, options [mss 1460,sackOK,TS val 445261036 ecr 3387725305,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...`..B{...................
+..$........
+
+14:45:35.101895 IP 10.10.0.10.37728 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 3387725305 ecr 445261036], length 0
+E..4..@.>...
+
+.
+
+..
+.`........B|...?.......
+......$.
+14:45:35.101912 IP 10.10.0.10.37728 > 10.20.0.10.8080: Flags [P.], seq 1:126, ack 1, win 63, options [nop,nop,TS val 3387725305 ecr 445261036], length 125: HTTP: GET /health HTTP/1.1
+E.....@.>..n
+
+.
+
+..
+.`........B|...?<......
+......$.GET /health HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.101918 IP 10.20.0.10.8080 > 10.10.0.10.37728: Flags [.], ack 126, win 64, options [nop,nop,TS val 445261036 ecr 3387725305], length 0
+E..4K.@.@...
+..
+
+
+.
+...`..B|...`...@.......
+..$.....
+14:45:35.102520 IP 10.20.0.10.8080 > 10.10.0.10.37728: Flags [P.], seq 1:140, ack 126, win 64, options [nop,nop,TS val 445261036 ecr 3387725305], length 139: HTTP: HTTP/1.0 200 OK
+E...K.@.@...
+..
+
+
+.
+...`..B|...`...@.......
+..$.....HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.102604 IP 10.20.0.10.8080 > 10.10.0.10.37728: Flags [FP.], seq 140:180, ack 126, win 64, options [nop,nop,TS val 445261037 ecr 3387725305], length 40: HTTP
+E..\K	@.@..a
+..
+
+
+.
+...`..C....`...@f......
+..$.....Isolated VPN/IDS lab: request received.
+
+14:45:35.102696 IP 10.10.0.10.37728 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 3387725306 ecr 445261036], length 0
+E..4..@.>...
+
+.
+
+..
+.`.....`..C....?.......
+......$.
+14:45:35.102862 IP 10.10.0.10.37728 > 10.20.0.10.8080: Flags [R.], seq 126, ack 181, win 63, options [nop,nop,TS val 3387725306 ecr 445261037], length 0
+E..4..@.>...
+
+.
+
+..
+.`.....`..C0...?.......
+......$.
+14:45:35.143281 IP 10.10.0.10.37734 > 10.20.0.10.8080: Flags [S], seq 529386598, win 64240, options [mss 1460,sackOK,TS val 2112842949 ecr 0,nop,wscale 10], length 0
+E..<".@.>...
+
+.
+
+..
+.f.....f.........;.........
+}.l........
+
+14:45:35.143305 IP 10.20.0.10.8080 > 10.10.0.10.37734: Flags [S.], seq 1911979843, ack 529386599, win 65160, options [mss 1460,sackOK,TS val 162369328 ecr 2112842949,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...fq..C...g....!{.........
+	..0}.l....
+
+14:45:35.143406 IP 10.10.0.10.37734 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 2112842949 ecr 162369328], length 0
+E..4".@.>...
+
+.
+
+..
+.f.....gq..D...?N......
+}.l.	..0
+14:45:35.143450 IP 10.10.0.10.37734 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 2112842949 ecr 162369328], length 124: HTTP: GET /login HTTP/1.1
+E...".@.>..T
+
+.
+
+..
+.f.....gq..D...?.......
+}.l.	..0GET /login HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.143462 IP 10.20.0.10.8080 > 10.10.0.10.37734: Flags [.], ack 125, win 64, options [nop,nop,TS val 162369328 ecr 2112842949], length 0
+E..48b@.@..0
+..
+
+
+.
+...fq..D.......@N......
+	..0}.l.
+14:45:35.143929 IP 10.20.0.10.8080 > 10.10.0.10.37734: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 162369329 ecr 2112842949], length 139: HTTP: HTTP/1.0 200 OK
+E...8c@.@...
+..
+
+
+.
+...fq..D.......@.......
+	..1}.l.HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.143958 IP 10.20.0.10.8080 > 10.10.0.10.37734: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 162369329 ecr 2112842949], length 40: HTTP
+E..\8d@.@...
+..
+
+
+.
+...fq..........@.S.....
+	..1}.l.Isolated VPN/IDS lab: request received.
+
+14:45:35.144014 IP 10.10.0.10.37734 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 2112842950 ecr 162369329], length 0
+E..4".@.>...
+
+.
+
+..
+.f......q......?M......
+}.l.	..1
+14:45:35.144202 IP 10.10.0.10.37734 > 10.20.0.10.8080: Flags [R.], seq 125, ack 181, win 63, options [nop,nop,TS val 2112842950 ecr 162369329], length 0
+E..4".@.>...
+
+.
+
+..
+.f......q......?M^.....
+}.l.	..1
+14:45:35.184699 IP 10.10.0.10.37736 > 10.20.0.10.8080: Flags [S], seq 2446558675, win 64240, options [mss 1460,sackOK,TS val 113281231 ecr 0,nop,wscale 10], length 0
+E..<7.@.>...
+
+.
+
+..
+.h.........................
+...........
+
+14:45:35.184724 IP 10.20.0.10.8080 > 10.10.0.10.37736: Flags [S.], seq 439279241, ack 2446558676, win 65160, options [mss 1460,sackOK,TS val 1230804136 ecr 113281231,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...h.............F.........
+I\.........
+
+14:45:35.184830 IP 10.10.0.10.37736 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 113281231 ecr 1230804136], length 0
+E..47.@.>...
+
+.
+
+..
+.h.............?1_.....
+....I\..
+14:45:35.185420 IP 10.10.0.10.37736 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 113281231 ecr 1230804136], length 124: HTTP: GET /login HTTP/1.1
+E...7.@.>..n
+
+.
+
+..
+.h.............?.].....
+....I\..GET /login HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.185428 IP 10.20.0.10.8080 > 10.10.0.10.37736: Flags [.], ack 125, win 64, options [nop,nop,TS val 1230804136 ecr 113281231], length 0
+E..4.W@.@..;
+..
+
+
+.
+...h.......P...@0......
+I\......
+14:45:35.185727 IP 10.20.0.10.8080 > 10.10.0.10.37736: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 1230804137 ecr 113281231], length 139: HTTP: HTTP/1.0 200 OK
+E....X@.@...
+..
+
+
+.
+...h.......P...@.X.....
+I\......HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.185760 IP 10.20.0.10.8080 > 10.10.0.10.37736: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 1230804137 ecr 113281231], length 40: HTTP
+E..\.Y@.@...
+..
+
+
+.
+...h.......P...@.......
+I\......Isolated VPN/IDS lab: request received.
+
+14:45:35.185872 IP 10.10.0.10.37736 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 113281232 ecr 1230804137], length 0
+E..47.@.>...
+
+.
+
+..
+.h.....P.......?0V.....
+....I\..
+14:45:35.186078 IP 10.10.0.10.37736 > 10.20.0.10.8080: Flags [R.], seq 125, ack 181, win 63, options [nop,nop,TS val 113281232 ecr 1230804137], length 0
+E..47.@.>...
+
+.
+
+..
+.h.....P...>...?0).....
+....I\..
+14:45:35.226456 IP 10.10.0.10.37746 > 10.20.0.10.8080: Flags [S], seq 1711700596, win 64240, options [mss 1460,sackOK,TS val 4056579895 ecr 0,nop,wscale 10], length 0
+E..<o&@.>..d
+
+.
+
+..
+.r..f.zt........4[.........
+...7.......
+
+14:45:35.226472 IP 10.20.0.10.8080 > 10.10.0.10.37746: Flags [S.], seq 1934253409, ack 1711700597, win 65160, options [mss 1460,sackOK,TS val 4047467037 ecr 4056579895,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+...rsJ]af.zu...............
+.?r....7...
+
+14:45:35.226573 IP 10.10.0.10.37746 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 4056579896 ecr 4047467037], length 0
+E..4o'@.>..k
+
+.
+
+..
+.r..f.zusJ]b...?)......
+...8.?r.
+14:45:35.226595 IP 10.10.0.10.37746 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 4056579896 ecr 4047467037], length 124: HTTP: GET /login HTTP/1.1
+E...o(@.>...
+
+.
+
+..
+.r..f.zusJ]b...?.......
+...8.?r.GET /login HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.226600 IP 10.20.0.10.8080 > 10.10.0.10.37746: Flags [.], ack 125, win 64, options [nop,nop,TS val 4047467038 ecr 4056579896], length 0
+E..4.#@.@.$p
+..
+
+
+.
+...rsJ]bf.z....@)C.....
+.?r....8
+14:45:35.227005 IP 10.20.0.10.8080 > 10.10.0.10.37746: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 4047467038 ecr 4056579896], length 139: HTTP: HTTP/1.0 200 OK
+E....$@.@.#.
+..
+
+
+.
+...rsJ]bf.z....@.......
+.?r....8HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.227062 IP 10.20.0.10.8080 > 10.10.0.10.37746: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 4047467038 ecr 4056579896], length 40: HTTP
+E..\.%@.@.$F
+..
+
+
+.
+...rsJ].f.z....@x......
+.?r....8Isolated VPN/IDS lab: request received.
+
+14:45:35.227153 IP 10.10.0.10.37746 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 4056579896 ecr 4047467038], length 0
+E..4o)@.>..i
+
+.
+
+..
+.r..f.z.sJ]....?(......
+...8.?r.
+14:45:35.227376 IP 10.10.0.10.37746 > 10.20.0.10.8080: Flags [F.], seq 125, ack 181, win 63, options [nop,nop,TS val 4056579896 ecr 4047467038], length 0
+E..4o*@.>..h
+
+.
+
+..
+.r..f.z.sJ^....?(......
+...8.?r.
+14:45:35.227399 IP 10.20.0.10.8080 > 10.10.0.10.37746: Flags [.], ack 126, win 64, options [nop,nop,TS val 4047467038 ecr 4056579896], length 0
+E..4.&@.@.$m
+..
+
+
+.
+...rsJ^.f.z....@(......
+.?r....8
+14:45:35.267763 IP 10.10.0.10.37762 > 10.20.0.10.8080: Flags [S], seq 81289625, win 64240, options [mss 1460,sackOK,TS val 1496657570 ecr 0,nop,wscale 10], length 0
+E..<9.@.>...
+
+.
+
+..
+......a....................
+Y5.........
+
+14:45:35.267784 IP 10.20.0.10.8080 > 10.10.0.10.37762: Flags [S.], seq 3627240432, ack 81289626, win 65160, options [mss 1460,sackOK,TS val 3705737131 ecr 1496657570,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.....3K...a......%.........
+....Y5.....
+
+14:45:35.267968 IP 10.10.0.10.37762 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 1496657570 ecr 3705737131], length 0
+E..49.@.>...
+
+.
+
+..
+......a..3K....?.>.....
+Y5......
+14:45:35.268014 IP 10.10.0.10.37762 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 1496657570 ecr 3705737131], length 124: HTTP: GET /login HTTP/1.1
+E...9.@.>...
+
+.
+
+..
+......a..3K....?.=.....
+Y5......GET /login HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.268027 IP 10.20.0.10.8080 > 10.10.0.10.37762: Flags [.], ack 125, win 64, options [nop,nop,TS val 3705737131 ecr 1496657570], length 0
+E..4?.@.@...
+..
+
+
+.
+.....3K...b....@.......
+....Y5..
+14:45:35.268480 IP 10.20.0.10.8080 > 10.10.0.10.37762: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 3705737131 ecr 1496657570], length 139: HTTP: HTTP/1.0 200 OK
+E...?.@.@...
+..
+
+
+.
+.....3K...b....@+9.....
+....Y5..HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.268512 IP 10.20.0.10.8080 > 10.10.0.10.37762: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 3705737131 ecr 1496657570], length 40: HTTP
+E..\?.@.@..e
+..
+
+
+.
+.....3L|..b....@.......
+....Y5..Isolated VPN/IDS lab: request received.
+
+14:45:35.268584 IP 10.10.0.10.37762 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 1496657571 ecr 3705737131], length 0
+E..49.@.>..
+
+
+.
+
+..
+......b..3L|...?.6.....
+Y5......
+14:45:35.268723 IP 10.10.0.10.37762 > 10.20.0.10.8080: Flags [R.], seq 125, ack 181, win 63, options [nop,nop,TS val 1496657571 ecr 3705737131], length 0
+E..49.@.>..	
+
+.
+
+..
+......b..3L....?.	.....
+Y5......
+14:45:35.309124 IP 10.10.0.10.37766 > 10.20.0.10.8080: Flags [S], seq 2088906588, win 64240, options [mss 1460,sackOK,TS val 869497304 ecr 0,nop,wscale 10], length 0
+E..<.B@.>..I
+
+.
+
+..
+....|./\........,:.........
+3.y........
+
+14:45:35.309145 IP 10.20.0.10.8080 > 10.10.0.10.37766: Flags [S.], seq 3242698813, ack 2088906589, win 65160, options [mss 1460,sackOK,TS val 177055833 ecr 869497304,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.....G.=|./].....%.........
+
+..Y3.y....
+
+14:45:35.309234 IP 10.10.0.10.37766 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 869497304 ecr 177055833], length 0
+E..4.C@.>..P
+
+.
+
+..
+....|./].G.>...?9>.....
+3.y.
+..Y
+14:45:35.309255 IP 10.10.0.10.37766 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 869497304 ecr 177055833], length 124: HTTP: GET /login HTTP/1.1
+E....D@.>...
+
+.
+
+..
+....|./].G.>...?.<.....
+3.y.
+..YGET /login HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.309262 IP 10.20.0.10.8080 > 10.10.0.10.37766: Flags [.], ack 125, win 64, options [nop,nop,TS val 177055833 ecr 869497304], length 0
+E..4J;@.@..W
+..
+
+
+.
+.....G.>|./....@8......
+
+..Y3.y.
+14:45:35.309672 IP 10.20.0.10.8080 > 10.10.0.10.37766: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 177055834 ecr 869497304], length 139: HTTP: HTTP/1.0 200 OK
+E...J<@.@...
+..
+
+
+.
+.....G.>|./....@.7.....
+
+..Z3.y.HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.309698 IP 10.20.0.10.8080 > 10.10.0.10.37766: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 177055834 ecr 869497304], length 40: HTTP
+E..\J=@.@..-
+..
+
+
+.
+.....G..|./....@.......
+
+..Z3.y.Isolated VPN/IDS lab: request received.
+
+14:45:35.309739 IP 10.10.0.10.37766 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 869497305 ecr 177055834], length 0
+E..4.E@.>..N
+
+.
+
+..
+....|./..G.....?85.....
+3.y.
+..Z
+14:45:35.309866 IP 10.10.0.10.37766 > 10.20.0.10.8080: Flags [R.], seq 125, ack 181, win 63, options [nop,nop,TS val 869497305 ecr 177055834], length 0
+E..4.F@.>..M
+
+.
+
+..
+....|./..G.....?8......
+3.y.
+..Z
+14:45:35.350288 IP 10.10.0.10.37772 > 10.20.0.10.8080: Flags [S], seq 2231813878, win 64240, options [mss 1460,sackOK,TS val 2016331852 ecr 0,nop,wscale 10], length 0
+E..<..@.>..k
+
+.
+
+..
+.................E.........
+x..L.......
+
+14:45:35.350317 IP 10.20.0.10.8080 > 10.10.0.10.37772: Flags [S.], seq 2779811183, ack 2231813879, win 65160, options [mss 1460,sackOK,TS val 3848232428 ecr 2016331852,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.......o.........0.........
+._].x..L...
+
+14:45:35.350442 IP 10.10.0.10.37772 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 2016331852 ecr 3848232428], length 0
+E..4. @.>..r
+
+.
+
+..
+...........p...?.I.....
+x..L._].
+14:45:35.350464 IP 10.10.0.10.37772 > 10.20.0.10.8080: Flags [P.], seq 1:125, ack 1, win 63, options [nop,nop,TS val 2016331852 ecr 3848232428], length 124: HTTP: GET /admin HTTP/1.1
+E....!@.>...
+
+.
+
+..
+...........p...?.M.....
+x..L._].GET /admin HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.350473 IP 10.20.0.10.8080 > 10.10.0.10.37772: Flags [.], ack 125, win 64, options [nop,nop,TS val 3848232428 ecr 2016331852], length 0
+E..4.S@.@.D?
+..
+
+
+.
+.......p...s...@.......
+._].x..L
+14:45:35.350907 IP 10.20.0.10.8080 > 10.10.0.10.37772: Flags [P.], seq 1:140, ack 125, win 64, options [nop,nop,TS val 3848232429 ecr 2016331852], length 139: HTTP: HTTP/1.0 200 OK
+E....T@.@.C.
+..
+
+
+.
+.......p...s...@'C.....
+._].x..LHTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.350941 IP 10.20.0.10.8080 > 10.10.0.10.37772: Flags [FP.], seq 140:180, ack 125, win 64, options [nop,nop,TS val 3848232429 ecr 2016331852], length 40: HTTP
+E..\.U@.@.D.
+..
+
+
+.
+...........s...@.......
+._].x..LIsolated VPN/IDS lab: request received.
+
+14:45:35.350998 IP 10.10.0.10.37772 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 2016331853 ecr 3848232429], length 0
+E..4."@.>..p
+
+.
+
+..
+.......s.......?.@.....
+x..M._].
+14:45:35.351146 IP 10.10.0.10.37772 > 10.20.0.10.8080: Flags [F.], seq 125, ack 181, win 63, options [nop,nop,TS val 2016331853 ecr 3848232429], length 0
+E..4.#@.>..o
+
+.
+
+..
+.......s...$...?.......
+x..M._].
+14:45:35.351162 IP 10.20.0.10.8080 > 10.10.0.10.37772: Flags [.], ack 126, win 64, options [nop,nop,TS val 3848232429 ecr 2016331853], length 0
+E..4.V@.@.D<
+..
+
+
+.
+.......$...t...@.......
+._].x..M
+14:45:35.391596 IP 10.10.0.10.37786 > 10.20.0.10.8080: Flags [S], seq 1913950879, win 64240, options [mss 1460,sackOK,TS val 2004218776 ecr 0,nop,wscale 10], length 0
+E..<m.@.>...
+
+.
+
+..
+....r......................
+wu.........
+
+14:45:35.391619 IP 10.20.0.10.8080 > 10.10.0.10.37786: Flags [S.], seq 2792110795, ack 1913950880, win 65160, options [mss 1460,sackOK,TS val 3281367355 ecr 2004218776,nop,wscale 10], length 0
+E..<..@.@.&.
+..
+
+
+.
+.....l:.r........;.........
+...;wu.....
+
+14:45:35.391777 IP 10.10.0.10.37786 > 10.20.0.10.8080: Flags [.], ack 1, win 63, options [nop,nop,TS val 2004218777 ecr 3281367355], length 0
+E..4m.@.>...
+
+.
+
+..
+....r....l:....?.S.....
+wu.....;
+14:45:35.391780 IP 10.10.0.10.37786 > 10.20.0.10.8080: Flags [P.], seq 1:130, ack 1, win 63, options [nop,nop,TS val 2004218777 ecr 3281367355], length 129: HTTP: GET /lab-attack HTTP/1.1
+E...m.@.>..`
+
+.
+
+..
+....r....l:....?x_.....
+wu.....;GET /lab-attack HTTP/1.1
+Accept-Encoding: identity
+Host: 10.20.0.10:8080
+User-Agent: Python-urllib/3.12
+Connection: close
+
+
+14:45:35.391803 IP 10.20.0.10.8080 > 10.10.0.10.37786: Flags [.], ack 130, win 64, options [nop,nop,TS val 3281367355 ecr 2004218777], length 0
+E..4..@.@...
+..
+
+
+.
+.....l:.r..!...@.......
+...;wu..
+14:45:35.392294 IP 10.20.0.10.8080 > 10.10.0.10.37786: Flags [P.], seq 1:140, ack 130, win 64, options [nop,nop,TS val 3281367355 ecr 2004218777], length 139: HTTP: HTTP/1.0 200 OK
+E.....@.@...
+..
+
+
+.
+.....l:.r..!...@dI.....
+...;wu..HTTP/1.0 200 OK
+Server: BaseHTTP/0.6 Python/3.12.15
+Date: Mon, 12 Oct 2026 14:45:35 GMT
+Content-Type: text/plain
+Content-Length: 40
+
+
+14:45:35.392320 IP 10.20.0.10.8080 > 10.10.0.10.37786: Flags [FP.], seq 140:180, ack 130, win 64, options [nop,nop,TS val 3281367355 ecr 2004218777], length 40: HTTP
+E..\..@.@..x
+..
+
+
+.
+.....l;Wr..!...@8......
+...;wu..Isolated VPN/IDS lab: request received.
+
+14:45:35.392374 IP 10.10.0.10.37786 > 10.20.0.10.8080: Flags [.], ack 140, win 63, options [nop,nop,TS val 2004218777 ecr 3281367355], length 0
+E..4m.@.>...
+
+.
+
+..
+....r..!.l;W...?.G.....
+wu.....;
+14:45:35.392624 IP 10.10.0.10.37786 > 10.20.0.10.8080: Flags [R.], seq 130, ack 181, win 63, options [nop,nop,TS val 2004218778 ecr 3281367355], length 0
+E..4m.@.>...
+
+.
+
+..
+....r..!.l;....?.......
+wu.....;
+14:45:35.432844 IP 10.10.0.10.39914 > 10.20.0.10.20000: Flags [S], seq 3346789889, win 64240, options [mss 1460,sackOK,TS val 4166450278 ecr 0,nop,wscale 10], length 0
+E..<..@.>..|
+
+.
+
+..
+..N .{.....................
+.V.f.......
+
+14:45:35.432862 IP 10.20.0.10.20000 > 10.10.0.10.39914: Flags [R.], seq 0, ack 3346789890, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N .......{..P.......
+14:45:35.433043 IP 10.10.0.10.36732 > 10.20.0.10.20001: Flags [S], seq 1162121199, win 64240, options [mss 1460,sackOK,TS val 2989930374 ecr 0,nop,wscale 10], length 0
+E..<.K@.>.@?
+
+.
+
+..
+.|N!ED...........L.........
+.6.........
+
+14:45:35.433047 IP 10.20.0.10.20001 > 10.10.0.10.36732: Flags [R.], seq 0, ack 1162121200, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N!.|....ED..P.......
+14:45:35.433153 IP 10.10.0.10.50274 > 10.20.0.10.20002: Flags [S], seq 1508508630, win 64240, options [mss 1460,sackOK,TS val 3715451830 ecr 0,nop,wscale 10], length 0
+E..<..@.>.hp
+
+.
+
+..
+.bN"Y............i.........
+.uK........
+
+14:45:35.433156 IP 10.20.0.10.20002 > 10.10.0.10.50274: Flags [R.], seq 0, ack 1508508631, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N".b....Y...P...+Y..
+14:45:35.433289 IP 10.10.0.10.33734 > 10.20.0.10.20003: Flags [S], seq 2882354150, win 64240, options [mss 1460,sackOK,TS val 170546734 ecr 0,nop,wscale 10], length 0
+E..<..@.>.].
+
+.
+
+..
+..N#..;....................
+
+*V........
+
+14:45:35.433292 IP 10.20.0.10.20003 > 10.10.0.10.33734: Flags [R.], seq 0, ack 2882354151, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N#........;.P.......
+14:45:35.433416 IP 10.10.0.10.49922 > 10.20.0.10.20004: Flags [S], seq 1407115059, win 64240, options [mss 1460,sackOK,TS val 1793017269 ecr 0,nop,wscale 10], length 0
+E..<D.@.>...
+
+.
+
+..
+..N$S..3........D..........
+j.E........
+
+14:45:35.433419 IP 10.20.0.10.20004 > 10.10.0.10.49922: Flags [R.], seq 0, ack 1407115060, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N$......S..4P...We..
+14:45:35.433514 IP 10.10.0.10.34272 > 10.20.0.10.20005: Flags [S], seq 1757512895, win 64240, options [mss 1460,sackOK,TS val 4032578613 ecr 0,nop,wscale 10], length 0
+E..<..@.>.9.
+
+.
+
+..
+..N%h...........B..........
+.\D5.......
+
+14:45:35.433527 IP 10.20.0.10.20005 > 10.10.0.10.34272: Flags [R.], seq 0, ack 1757512896, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N%......h...P.......
+14:45:35.433616 IP 10.10.0.10.47448 > 10.20.0.10.20006: Flags [S], seq 1081339496, win 64240, options [mss 1460,sackOK,TS val 1483538887 ecr 0,nop,wscale 10], length 0
+E..<Q.@.>..q
+
+.
+
+..
+.XN&@s.h.........K.........
+Xm.........
+
+14:45:35.433619 IP 10.20.0.10.20006 > 10.10.0.10.47448: Flags [R.], seq 0, ack 1081339497, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N&.X....@s.iP...eC..
+14:45:35.433747 IP 10.10.0.10.58760 > 10.20.0.10.20007: Flags [S], seq 4088960242, win 64240, options [mss 1460,sackOK,TS val 2897320955 ecr 0,nop,wscale 10], length 0
+E..<.q@.>.u.
+
+.
+
+..
+..N'............3..........
+...........
+
+14:45:35.433761 IP 10.20.0.10.20007 > 10.10.0.10.58760: Flags [R.], seq 0, ack 4088960243, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N'..........P....B..
+14:45:35.434649 IP 10.10.0.10.50614 > 10.20.0.10.20008: Flags [S], seq 1669595129, win 64240, options [mss 1460,sackOK,TS val 3527608159 ecr 0,nop,wscale 10], length 0
+E..<8n@.>...
+
+.
+
+..
+..N(c......................
+.C._.......
+
+14:45:35.434654 IP 10.20.0.10.20008 > 10.10.0.10.50614: Flags [R.], seq 0, ack 1669595130, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N(......c...P...$B..
+14:45:35.434906 IP 10.10.0.10.43018 > 10.20.0.10.20009: Flags [S], seq 152281401, win 64240, options [mss 1460,sackOK,TS val 3621242352 ecr 0,nop,wscale 10], length 0
+E..<..@.>.U.
+
+.
+
+..
+.
+N)	..9...................
+...........
+
+14:45:35.434914 IP 10.20.0.10.20009 > 10.10.0.10.43018: Flags [R.], seq 0, ack 152281402, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N).
+....	..:P.......
+14:45:35.435034 IP 10.10.0.10.42436 > 10.20.0.10.20010: Flags [S], seq 3854345902, win 64240, options [mss 1460,sackOK,TS val 3089014016 ecr 0,nop,wscale 10], length 0
+E..<+
+@.>...
+
+.
+
+..
+..N*............ca.........
+...........
+
+14:45:35.435037 IP 10.20.0.10.20010 > 10.10.0.10.42436: Flags [R.], seq 0, ack 3854345903, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N*..........P....D..
+14:45:35.435144 IP 10.10.0.10.34800 > 10.20.0.10.20011: Flags [S], seq 553870322, win 64240, options [mss 1460,sackOK,TS val 2190826802 ecr 0,nop,wscale 10], length 0
+E..<#.@.>...
+
+.
+
+..
+..N+!.c....................
+..]2.......
+
+14:45:35.435147 IP 10.20.0.10.20011 > 10.10.0.10.34800: Flags [R.], seq 0, ack 553870323, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N+......!.c.P...@...
+14:45:35.435494 IP 10.10.0.10.35872 > 10.20.0.10.20012: Flags [S], seq 3356974023, win 64240, options [mss 1460,sackOK,TS val 375849394 ecr 0,nop,wscale 10], length 0
+E..<..@.>.y.
+
+.
+
+..
+. N,..[........."..........
+.g.........
+
+14:45:35.435498 IP 10.20.0.10.20012 > 10.10.0.10.35872: Flags [R.], seq 0, ack 3356974024, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N,. ......[.P....r..
+14:45:35.436059 IP 10.10.0.10.58604 > 10.20.0.10.20013: Flags [S], seq 1270508499, win 64240, options [mss 1460,sackOK,TS val 3483852190 ecr 0,nop,wscale 10], length 0
+E..<..@.>.z.
+
+.
+
+..
+..N-K.k......... ..........
+..]........
+
+14:45:35.436073 IP 10.20.0.10.20013 > 10.10.0.10.58604: Flags [R.], seq 0, ack 1270508500, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N-......K.k.P.......
+14:45:35.436204 IP 10.10.0.10.36216 > 10.20.0.10.20014: Flags [S], seq 1273224948, win 64240, options [mss 1460,sackOK,TS val 985221993 ecr 0,nop,wscale 10], length 0
+E..<..@.>.w.
+
+.
+
+..
+.xN.K............9.........
+:.Ki.......
+
+14:45:35.436207 IP 10.20.0.10.20014 > 10.10.0.10.36216: Flags [R.], seq 0, ack 1273224949, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N..x....K...P.......
+14:45:35.436316 IP 10.10.0.10.54504 > 10.20.0.10.20015: Flags [S], seq 3506451179, win 64240, options [mss 1460,sackOK,TS val 3459368695 ecr 0,nop,wscale 10], length 0
+E..<q.@.>...
+
+.
+
+..
+..N/..2.........|..........
+.1.........
+
+14:45:35.436320 IP 10.20.0.10.20015 > 10.10.0.10.54504: Flags [R.], seq 0, ack 3506451180, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N/........2.P...t...
+14:45:35.436455 IP 10.10.0.10.52656 > 10.20.0.10.20016: Flags [S], seq 3723966810, win 64240, options [mss 1460,sackOK,TS val 3451457343 ecr 0,nop,wscale 10], length 0
+E..<S.@.>...
+
+.
+
+..
+..N0..9Z........(..........
+...?.......
+
+14:45:35.436462 IP 10.20.0.10.20016 > 10.10.0.10.52656: Flags [R.], seq 0, ack 3723966811, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N0........9[P...hk..
+14:45:35.436784 IP 10.10.0.10.60928 > 10.20.0.10.20017: Flags [S], seq 3916959849, win 64240, options [mss 1460,sackOK,TS val 2893894485 ecr 0,nop,wscale 10], length 0
+E..<..@.>.S.
+
+.
+
+..
+..N1.x.i...................
+.}SU.......
+
+14:45:35.436793 IP 10.20.0.10.20017 > 10.10.0.10.60928: Flags [R.], seq 0, ack 3916959850, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N1.......x.jP...e...
+14:45:35.437039 IP 10.10.0.10.34048 > 10.20.0.10.20018: Flags [S], seq 631990382, win 64240, options [mss 1460,sackOK,TS val 2836773699 ecr 0,nop,wscale 10], length 0
+E..<..@.>.a.
+
+.
+
+..
+..N2%.hn........s5.........
+...C.......
+
+14:45:35.437046 IP 10.20.0.10.20018 > 10.10.0.10.34048: Flags [R.], seq 0, ack 631990383, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N2......%.hoP...:R..
+14:45:35.437161 IP 10.10.0.10.47052 > 10.20.0.10.20019: Flags [S], seq 2026725838, win 64240, options [mss 1460,sackOK,TS val 1426834677 ecr 0,nop,wscale 10], length 0
+E..<..@.>.a.
+
+.
+
+..
+..N3x.a.........>>.........
+U..........
+
+14:45:35.437169 IP 10.20.0.10.20019 > 10.10.0.10.47052: Flags [R.], seq 0, ack 2026725839, win 0, length 0
+E..(..@.@.&.
+..
+
+
+.
+N3......x.a.P.......

@@ -1,0 +1,6 @@
+10/12/2026-14:45:33.555976  [**] [1:1000001:2] LAB ICMP echo observed rate limited [**] [Classification: (null)] [Priority: 3] {ICMP} 10.10.0.10:8 -> 10.20.0.10:0
+10/12/2026-14:45:35.268584  [**] [1:1000003:2] LAB repeated login endpoint requests [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:37762 -> 10.20.0.10:8080
+10/12/2026-14:45:35.309739  [**] [1:1000003:2] LAB repeated login endpoint requests [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:37766 -> 10.20.0.10:8080
+10/12/2026-14:45:35.350998  [**] [1:1000004:2] LAB admin endpoint policy [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:37772 -> 10.20.0.10:8080
+10/12/2026-14:45:35.392374  [**] [1:1000002:1] LAB harmless attack marker [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:37786 -> 10.20.0.10:8080
+10/12/2026-14:45:35.434906  [**] [1:1000005:1] LAB SYN burst to test port range [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.10:43018 -> 10.20.0.10:20009

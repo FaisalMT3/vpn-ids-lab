@@ -1,0 +1,45 @@
+[
+  {
+    "timestamp": "2026-10-12T14:45:39.007475+0000",
+    "flow_id": 874743855108111,
+    "event_type": "alert",
+    "src_ip": "10.10.0.10",
+    "src_port": 37814,
+    "dest_ip": "10.20.0.10",
+    "dest_port": 8080,
+    "proto": "TCP",
+    "pkt_src": "wire/pcap",
+    "tx_id": 0,
+    "alert": {
+      "action": "blocked",
+      "gid": 1,
+      "signature_id": 1000002,
+      "rev": 1,
+      "signature": "LAB harmless attack marker",
+      "category": "",
+      "severity": 3
+    },
+    "http": {
+      "hostname": "10.20.0.10",
+      "http_port": 8080,
+      "url": "/lab-attack",
+      "http_user_agent": "curl/8.14.1",
+      "http_method": "GET",
+      "protocol": "HTTP/1.1",
+      "length": 0
+    },
+    "app_proto": "http",
+    "direction": "to_server",
+    "flow": {
+      "pkts_toserver": 3,
+      "pkts_toclient": 1,
+      "bytes_toserver": 253,
+      "bytes_toclient": 60,
+      "start": "2026-10-12T14:45:39.007059+0000",
+      "src_ip": "10.10.0.10",
+      "dest_ip": "10.20.0.10",
+      "src_port": 37814,
+      "dest_port": 8080
+    }
+  }
+]
